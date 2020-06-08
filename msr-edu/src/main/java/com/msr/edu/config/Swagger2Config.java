@@ -1,4 +1,4 @@
-package com.msr.edu.com.msr.edu.config;
+package com.msr.edu.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

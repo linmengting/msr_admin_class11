@@ -1,4 +1,4 @@
-package com.msr.edu.com.msr.edu.config;
+package com.msr.edu.config;
 
 import com.baomidou.mybatisplus.core.injector.ISqlInjector;
 import com.baomidou.mybatisplus.extension.injector.LogicSqlInjector;
